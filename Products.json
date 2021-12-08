@@ -1,0 +1,4 @@
+[
+  {"id":"qwe","startPrice":100.0,"name":"car","honorary_code":"","state":"sold","currentPrice":300.0},
+  {"id":"asd","startPrice":200.0,"name":"house","honorary_code":"12642d65","state":"sold","currentPrice":200.0}
+]
